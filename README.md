@@ -260,3 +260,6 @@ Use this software to **reduce loss and protect legitimate customers**, not to ov
 
 </div>
 # AI_Risk_manager
+
+## Documentation Status
+Last documentation review: 17 September 2026
